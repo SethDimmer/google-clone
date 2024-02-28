@@ -7,7 +7,6 @@ import SearchResults from "../components/SearchResults";
 
 function Search({ results }) {
     const router = useRouter()
-    require('dotenv').config();
 
 
     return (

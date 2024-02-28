@@ -9,7 +9,7 @@ import { useRouter } from 'next/router'
 
 
 export default function Home() {
-  require('dotenv').config();
+  // require('dotenv').config();
 
 
   const searchInputRef = useRef(null)
